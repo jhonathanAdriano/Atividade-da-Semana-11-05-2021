@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: hsl(0, 0%, 5%);
+    font-weight: 50;
+    background-color: #0e0d0d;
+    background-image: url(desenho-de-coracoes-de-giz_169016-2221.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+
+    
+    }
+
+#bordaCarta {
+    border: 7px solid rgb(128 125 125);
+    width: 400px;
+    height: 410px;
+    border-radius: 20px;
+    background-color: rgba(202, 199, 199, 0.932);
+    margin: 0 auto 0 auto;
+    }
+
+.padrao-msg {
+    margin-left: 2px;
+}
+
+.padrao-msg-fim {
+        padding: 12px;
+}
+
+.mensagem {
+    margin: 1px 1px 1px;
+    padding: 30px 30px;
+    text-align: center;
+}
+
+.div-topo{
+    display: inline-block; 
+    padding: 12px;
+}
+
+.center{
+    text-align: center;
+}
+
+.margin-final{
+    margin-top: 5px;
+}
+a {
+        background-color: #959696;
+        color: rgb(17, 17, 17);
+        text-decoration: none;
+        border: 1px solid #424242;
+        padding: 1px 1px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 1;
+        float: right;
+        border-radius: 6px;
+    }
+a:hover{
+    background-color: #4d4a4a;
+    color: #0a0a0a;;
+}
+div{
+    margin: 0px;
+}
